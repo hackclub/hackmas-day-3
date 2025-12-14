@@ -32,10 +32,11 @@ Since CAD guides tend to be quite screenshot heavy, you can access the guide [he
 
 ## Submitting your project
 
-You can submit your project [here](example.com). Make sure you have your .step file, and a screenshot of your keyring handy for the form!
+You can submit your project [here](https://forms.hackclub.com/haxmas-day-3). Make sure you have your .step file, and a screenshot of your keyring handy for the form!
 
 
 
 Good Luck! We look forward to reviewing all of your creations soon!
+
 
 
